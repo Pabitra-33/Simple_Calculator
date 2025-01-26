@@ -1,5 +1,7 @@
 # 🧮🎛 Simple_Calculator 
 
+![Simple Calculator Test Image](simpleCalc.png)
+
 # Description:
 The Simple Calculator is a basic web-based application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. This project demonstrates how front-end technologies can be combined to create interactive and functional user interfaces.
 
